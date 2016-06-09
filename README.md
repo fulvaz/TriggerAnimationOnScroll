@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="animation.css">
 </head>
 <body>
-<div class="reveal-detect">
+<div class="taos-reveal-detect">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab amet aperiam asperiores doloremque dolorum, est nobis non quae, quia quod repudiandae vitae. Autem commodi eligendi iusto molestias non quam suscipit!</p>
 </div>
 <script src="triggerAnimation.js"></script>
