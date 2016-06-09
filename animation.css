@@ -28,7 +28,7 @@
 
 
 .taos-animated {
-    animation: 1s fadeInDown;
+    animation: 1s taos-fadeInDown;
 }
 
 

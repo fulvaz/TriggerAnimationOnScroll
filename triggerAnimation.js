@@ -4,7 +4,7 @@
         revealDetect = [].slice.call(revealDetect);  // may improve some performance?
         for(var i=0; i<revealDetect.length; i++) {
             if(revealDetect[i].getBoundingClientRect().top < window.innerHeight) {
-                revealDetect[i].classList.add('animated');
+                revealDetect[i].classList.add('taos-animated');
             }
         }
     });
